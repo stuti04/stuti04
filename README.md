@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stuti04
 - 👀 I’m interested in exploring and learning new things!
-- 🌱 I’m currently learning data analysis.
+- 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on data analysis & visualization projects.
 - 📫 How to reach me: www.linkedin.com/in/stuti-dhebar 🙂
 
