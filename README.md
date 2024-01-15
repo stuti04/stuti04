@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stuti04
 - 👀 I’m interested in exploring and learning new things!
-- 🌱 I’m currently learning data science and eagerly looking for internships/co-op to gain hands-on experience in this field.
+- 🌱 I’m currently learning data science and looking for full-time opportunities to gain hands-on experience in this field.
 - 📫 How to reach me: www.linkedin.com/in/stuti-dhebar 🙂
 
 <!---
